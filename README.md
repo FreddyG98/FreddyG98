@@ -15,13 +15,13 @@ Appassionato di Data Analysis e Business Intelligence, mi dedico a trasformare d
 
 ### 🚀 Progetti In Evidenza
 
-- 📊 **[Architettura Dati End-to-End & Advanced BI Northwind](https://github.com/FreddyG98/Northwind-Data-Architecture)**  
+- 📊 **[Architettura Dati End-to-End & Advanced BI Northwind](https://github.com/FreddyG98/progetto-analisi-dati-northwind)**  
   Infrastruttura dati self-hosted con PostgreSQL in container Docker, viste SQL e logiche condizionali, modellazione a stella su Power BI e dashboard direzionali con metriche DAX e visualizzazioni custom.
 
-- 🖥️ **[Home Server & DevOps Data Staging Infrastructure](https://github.com/FreddyG98/Home-Server-DevOps-Data-Staging)**  
+- 🖥️ **[Home Server & DevOps Data Staging Infrastructure](https://github.com/FreddyG98/raspberry-pi5-home-server)**  
   Architettura di data staging su server dedicato (Raspberry Pi 5 / Linux), orchestrazione Docker/Portainer, tuning della memoria per PostgreSQL, configurazione VPN Mesh (Tailscale) e pipeline di log in fault-tolerance.
 
-- 🎵 **[Sanremo Historical Dataset (1951-2025)](https://github.com/FreddyG98/Sanremo-Historical-Dataset)**  
+- 🎵 **[Sanremo Historical Dataset (1951-2025)](https://github.com/FreddyG98/sanremo-historical-dataset)**  
   Database relazionale strutturato e normalizzato da zero: attività di data auditing, pulizia profonda delle stringhe (Data Cleansing) e rilascio di dataset integrati per analisi di Business Intelligence e predittive.
 
 ---
@@ -36,5 +36,5 @@ Appassionato di Data Analysis e Business Intelligence, mi dedico a trasformare d
 ---
 
 📬 **Contatti & Network:**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alfredoguidotti)
+[![LinkedIn](https://www.linkedin.com/in/alfredo-guidotti-65b497163/?skipRedirect=true)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:f.guidotti1966@gmail.com)
