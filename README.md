@@ -16,7 +16,7 @@ Appassionato di Data Analysis e Business Intelligence, mi dedico a trasformare d
 ### 🚀 Progetti In Evidenza
 
 - 🧠 **[PL-300 Exam Simulator | Interactive Quiz Platform](https://github.com/FreddyG98/pl300-exam-simulator-demo)**  
-  Piattaforma web interattiva sviluppata in HTML, CSS e JavaScript Vanilla per la pratica e simulazione d’esame PL-300, con banca domande JSON, filtri dinamici, modalità esame a tempo, case study, navigazione avanzata, spaced repetition e persistenza locale tramite LocalStorage.
+  Piattaforma web interattiva sviluppata in HTML, CSS e JavaScript Vanilla per la pratica e simulazione d’esame PL-300, con banca domande JSON, filtri dinamici, modalità esame a tempo, case study, navigazione avanzata, e persistenza locale tramite LocalStorage.
 
 - 📊 **[Architettura Dati End-to-End & Advanced BI Northwind](https://github.com/FreddyG98/progetto-analisi-dati-northwind)**  
   Infrastruttura dati self-hosted con PostgreSQL in container Docker, viste SQL e logiche condizionali, modellazione a stella su Power BI e dashboard direzionali con metriche DAX e visualizzazioni custom.
